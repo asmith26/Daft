@@ -1833,7 +1833,6 @@ dependencies = [
 name = "daft-local-execution"
 version = "0.3.0-dev0"
 dependencies = [
- "async-stream",
  "async-trait",
  "common-daft-config",
  "common-display",
@@ -1849,7 +1848,6 @@ dependencies = [
  "daft-physical-plan",
  "daft-plan",
  "daft-scan",
- "daft-stats",
  "daft-table",
  "futures",
  "lazy_static",
